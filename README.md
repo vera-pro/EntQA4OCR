@@ -1,6 +1,6 @@
 # EntQA
 
-This repo provides the code for our ICLR 2022 paper [EntQA: Entitly Linking as Question Answering](https://arxiv.org/pdf/2110.02369.pdf)
+This repo provides the code for the ICLR 2022 paper [EntQA: Entitly Linking as Question Answering](https://arxiv.org/pdf/2110.02369.pdf)
 
 ## Setup
 
